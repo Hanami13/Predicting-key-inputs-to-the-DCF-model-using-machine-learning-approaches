@@ -1,1 +1,1 @@
-
+The `/Notebooks` folder contains all **Python code** for fetching data, exploratory data analysis (EDA), **machine learning modeling**, and a **Power BI table** that visualizes key financial and valuation metrics.
